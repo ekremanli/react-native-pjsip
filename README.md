@@ -2,6 +2,10 @@
 
 A [PJSIP](http://www.pjsip.org/) module for React Native.
 
+## Changes
+
+Added don't switch to tcp option to configutarion.
+
 ## Support
 - Currently support for iOS and Android.  
 - Support video and audio communication.
